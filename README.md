@@ -6,6 +6,9 @@ Animating any sprite sheet and practice vanilla JavaScript at the same time.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-:books: Source: Udemy.
+##:books: Source: Udemy.
 
 ------
+## Screenshot 📸
+
+<img src="" width="100%" alt="file_gif">
